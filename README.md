@@ -104,7 +104,7 @@ $$
 where
 
 $$
-\operatorname{Var}(\varepsilon_t)
+Var(\varepsilon_t)
 = \sigma_0^2(1-\rho^2).
 $$
 
